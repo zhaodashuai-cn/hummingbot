@@ -10,7 +10,7 @@ Hummingbot is an open-source framework that helps you design and deploy automate
 
 The Hummingbot codebase is free and publicly available under the Apache 2.0 open-source license. Our mission is to **democratize high-frequency trading** by creating a global community of algorithmic traders and developers that share knowledge and contribute to the codebase.
 
-## Quick Links zhao
+## Quick Links
 
 * [Website and Docs](https://hummingbot.org): Official Hummingbot website and documentation
 * [Installation](https://hummingbot.org/installation/docker/): Install Hummingbot on various platforms
